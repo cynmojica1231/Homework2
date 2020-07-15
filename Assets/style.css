@@ -1,9 +1,9 @@
 body {
-  background-image: url("./Assets/Images/papertexture.jpg");
+  background-image: url("../Assets/Images/papertexture.jpg");
 }
 
 .border {
-  padding-bottom: 350px;
+  padding-bottom: 400px;
 }
 
 .paragraph {
@@ -11,7 +11,6 @@ body {
 }
 .border-bottom {
   padding-bottom: 70px;
-  padding-right: -80;
   padding-left: 150px;
   padding-right: 150px;
 }
@@ -20,6 +19,20 @@ body {
   padding-bottom: 40px;
   margin-right: 350px;
   margin-left: 350px;
+}
+
+.card-body h3 {
+  font-size: 18px;
+}
+.card-body h4 {
+  font-size: 18px;
+}
+
+.card-body h5 {
+  font-size: 18px;
+}
+.card-body h6 {
+  font-size: 18px;
 }
 .teal_line {
   padding: 5px;
